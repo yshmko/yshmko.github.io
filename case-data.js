@@ -136,8 +136,6 @@ const detailedCases = {
     "group": "freelance",
     "cover": "presentations",
     "detailed": true,
-    "hero": "assets/cases/aura-hero.webp",
-    "heroAlt": "Aura",
     "before": [],
     "after": [
       "assets/cases/aura-image-1.webp",
