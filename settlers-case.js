@@ -75,7 +75,7 @@ const settlersCase = {
   "ru": {
     "title": "Поселенцы",
     "storyTitle": "Поселенцы — браузерная стратегия",
-    "kicker": "Цифровая адаптация настольной игры",
+    "kicker": "2025 / UI/UX / Цифровая настольная игра",
     "lead": "Игра с ботами для Яндекс Игр. Я занималась интерфейсом с первых схем до запуска: продумывала сценарии, собирала экраны и адаптивы, делала обучение и вносила правки во время разработки.",
     "sections": [
       {
@@ -206,7 +206,7 @@ const settlersCase = {
   "en": {
     "title": "Settlers",
     "storyTitle": "Settlers — a browser strategy game",
-    "kicker": "A digital board game adaptation",
+    "kicker": "2025 / UI/UX / Digital board game",
     "lead": "A game against bots for Yandex Games. I worked on the interface from the first wireframes to launch: planning flows, designing screens and responsive layouts, creating the tutorial, and refining the design during development.",
     "gameTitle": "Try the game",
     "gameText": "Launch Settlers to explore the interface and play your first game against bots.",
